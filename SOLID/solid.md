@@ -346,8 +346,11 @@ class APIService implements Conexion{
 ## Referencias 
 
 Ejemplo de [Single responsibility principle](https://www.baeldung.com/java-single-responsibility-principle)
+
 Ejemplo de [Liskov substitution principle](https://programmerclick.com/article/55451263051/)
+
 Ejemplo de [Interface segregation principle](https://devexperto.com/principio-de-segregacion-de-interfaces/)
+
 Ejemplo de [Dependency inversion principle](https://enmilocalfunciona.io/principios-solid/)
 
 
